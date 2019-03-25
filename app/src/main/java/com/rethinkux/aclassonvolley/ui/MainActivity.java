@@ -1,4 +1,4 @@
-package com.rethinkux.aclassonvolley;
+package com.rethinkux.aclassonvolley.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,8 +10,8 @@ import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayRequest;
-import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
+import com.rethinkux.aclassonvolley.R;
 import com.rethinkux.aclassonvolley.adapters.UsersAdapter;
 import com.rethinkux.aclassonvolley.models.Phone;
 import com.rethinkux.aclassonvolley.models.User;
